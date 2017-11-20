@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.app {
+    color: #666;
+    font-size: 14px;
+    margin: 20px 10px;
+}
+.app button {
+    margin: 5px;
+}

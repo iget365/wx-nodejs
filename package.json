@@ -1,0 +1,21 @@
+{
+  "name": "wx-nodejs",
+  "version": "1.0.0",
+  "description": "weixin api demos with nodejs",
+  "main": "app.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "babel-register": "^6.26.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-route": "^3.2.0",
+    "koa-static": "^4.0.1",
+    "koa-xml-body": "^2.0.0",
+    "request": "^2.83.0"
+  },
+  "dependencies": {}
+}
